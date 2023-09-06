@@ -1,14 +1,14 @@
 const products: Product[] = [
     {
         id: '128113',
-        label: 'Brazil Blend',
+        label: 'Gamer Sticker',
         imageUrl: '/products/128113.png',
-        altText: 'Brazil Blend',
+        altText: 'Gamer Sticker',
         price: 1.0,
-        category: 'Coffee',
-        brand: 'Rocket Surgery Coffee',
-        description: 'Dance to the beats of the Samba with this Brazilian blend. With a nutty sweetness and hints of Amazonian chocolate, it embodies the spirit of Rios Carnival.',
-  },
+        category: 'Stickers',
+        brand: 'Higgs',
+        description: '2.3" W x 2.25" H',
+    },
     {
         id: '128115',
         label: 'Mug Sticker',
